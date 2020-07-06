@@ -1,0 +1,19 @@
+{
+  "name": "carrito",
+  "version": "1.0.0",
+  "description": "Proyecto con SASS, Gulp y Flexbox",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rogelio1603/Universidad.git"
+  },
+  "author": "Rogelio Oseguera de la Cruz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rogelio1603/Universidad/issues"
+  },
+  "homepage": "https://github.com/rogelio1603/Universidad#readme"
+}
